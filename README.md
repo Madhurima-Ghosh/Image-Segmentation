@@ -1,4 +1,2 @@
-# Image-Segmentation
-Using K means
-
+# Image-Segmentation Using K means
 pgm files can be accessed using Irfanview.
